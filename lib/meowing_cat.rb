@@ -1,6 +1,8 @@
 class Cat
 
-attr_accessor = :name, :meow 
+attr_accessor = :name, :meow
+
+
 
 
   
