@@ -7,7 +7,8 @@ attr_accessor = :name, :meow
     @meow = meow
   end
   
-  def meow()
+  def meow = (meow)
+    
 
 
   
