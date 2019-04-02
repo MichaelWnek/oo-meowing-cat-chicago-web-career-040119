@@ -1,9 +1,6 @@
 class Cat
 
-  def meow
-    puts "Meow"
-  end
-  
+attr_accessor
   
 
 end
